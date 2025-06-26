@@ -1,0 +1,5 @@
+﻿  Ex_Escalonador_RoundRobin.cpp
+D:\documentos\Workspace\C++\Aprendendo\ex\Ex_Escalonador_RoundRobin\Ex_Escalonador_RoundRobin\CircularQueue.h(34,44): warning C4267: 'return': conversão de 'size_t' para 'int', possível perda de dados
+  (compilando o arquivo fonte 'Ex_Escalonador_RoundRobin.cpp')
+  
+  Ex_Escalonador_RoundRobin.vcxproj -> D:\documentos\Workspace\C++\Aprendendo\ex\Ex_Escalonador_RoundRobin\x64\Debug\Ex_Escalonador_RoundRobin.exe
