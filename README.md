@@ -2,7 +2,7 @@
     <h1 align="center">Exemplo de Escalonador Round-Robin</h1>
     <blockquote cite="https://deinfo.uepg.br/~alunoso/2016/ROUNDROBIN/#:~:text=Escalonamento%20circular%20(Round%2DRobin),Jos%C3%A9%20Renato%20Soares%20Nunes%2C%201990.">
         <p>
-            "É o tipo de escalonamento preemptivo mais simples e 
+            "É um tipo de escalonamento preemptivo mais simples e 
             consiste em repartir uniformemente o tempo da CPU 
             entre todos os processos prontos para a execução. 
             Os processos são organizados numa fila circular, 
