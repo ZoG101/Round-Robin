@@ -39,6 +39,6 @@
     <h2 align="center">Tecnologias Utilizadas</h2>
     <div align="left">
         <img width="30" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" style="height: 40px" alt="cplusplus logo"  />
     </div>
 </section>
